@@ -116,11 +116,13 @@ b) Also, supports some query parameters:-
 4)`/api/users/<user_id> - PUT `- To update the details of a user
 Here {id} will be the id of the user in path parameter 
 
+    
     {
     "first_name": "Josephine",
     "last_name": "Darakjy",
     "age": 48
-    }
+   }
+   
 
 Response with HTTP status code 200 on success
 	
