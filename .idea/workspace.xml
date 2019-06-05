@@ -68,6 +68,9 @@
       <find>True</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -94,6 +97,7 @@
     <option name="width" value="683" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,6 +118,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -163,16 +168,15 @@
       <option name="presentableId" value="Default" />
       <updated>1559688603635</updated>
       <workItem from="1559688609510" duration="2240000" />
-      <workItem from="1559719785378" duration="16112000" />
+      <workItem from="1559719785378" duration="16414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18352000" />
+    <option name="totallyTimeSpent" value="18654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="27" width="683" height="741" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,7 +192,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3294893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3305785" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3294893" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
